@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.apollographql.apollo3:apollo-engine-ktor:4.0.0-beta.7")
+    implementation("com.apollographql.ktor:apollo-engine-ktor:0.0.2")
 //    implementation("io.ktor:ktor-client-core-jvm:2.3.12")
     implementation("io.ktor:ktor-client-core-jvm:3.0.0")
 }

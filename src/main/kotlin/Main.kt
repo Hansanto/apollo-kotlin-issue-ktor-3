@@ -1,8 +1,8 @@
 package io.github.hansanto
 
-import com.apollographql.apollo3.ApolloClient
-import com.apollographql.apollo3.network.http.HttpNetworkTransport
-import com.apollographql.apollo3.network.http.KtorHttpEngine
+import com.apollographql.apollo.ApolloClient
+import com.apollographql.apollo.network.http.HttpNetworkTransport
+import com.apollographql.ktor.http.KtorHttpEngine
 import io.ktor.client.HttpClient
 import io.ktor.client.plugins.HttpTimeout
 

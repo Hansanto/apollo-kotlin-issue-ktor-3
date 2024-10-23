@@ -1,4 +1,4 @@
-Repository to show the conflict when we're using Ktor 3.X.X and Apollo-Engine-Ktor (4.0.0-beta.7) that uses Ktor 2.X.X
+Repository to show the conflict when we're using Ktor 3.X.X and Apollo-Engine-Ktor (0.0.2) that uses Ktor 2.X.X
 
 # How to see the problem
 
